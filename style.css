@@ -1,0 +1,160 @@
+section {
+  width: 80%;
+  margin: auto;
+  left: 0%;
+}
+a {
+  text-decoration: none;
+  font-size: 1rem;
+  color: white;
+}
+h1 {
+  font-weight: bold;
+  color: black;
+}
+.home-page {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+#dom {
+  flex: 1;
+  font-size: 3rem;
+  font-family: "Spicy Rice", serif;
+  font-weight: bold;
+  color: white;
+}
+.home-page ul {
+  flex: 0.3;
+  display: flex;
+  justify-content: space-between;
+}
+.home-page ul li {
+  list-style: none;
+}
+
+#home-img {
+  position: absolute;
+  top: 0%;
+  left: 0%;
+  height: 100vh;
+  width: 100%;
+  z-index: -1;
+}
+h3 {
+  color: white;
+}
+p {
+  color: white;
+  width: 30%;
+  font-weight: bold;
+}
+.b button {
+  font-weight: bold;
+  top: 0%;
+  text-decoration: none;
+  background-color: rgb(255, 0, 21);
+  color: white;
+}
+.b button:hover {
+  color: rgb(255, 0, 34);
+  background-color: rgb(26, 204, 204);
+}
+.a {
+  display: flex;
+}
+.b {
+  flex: 1;
+}
+.a2 {
+  background-color: brown;
+  width: 95%;
+  height: 100%;
+}
+.bb {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-left: 10rem;
+}
+.bb img {
+  width: 40%;
+  height: 40%;
+}
+.bb img:hover {
+  width: 50%;
+  height: 55%;
+}
+
+#aa1 {
+  font-weight: bold;
+  text-align: center;
+  align-items: center;
+}
+.member {
+  display: flex;
+  justify-content: space-between;
+}
+.dom-i {
+  display: flex;
+  justify-content: space-between;
+  flex: 1;
+  align-items: center;
+}
+.dom-i img {
+  width: 40%;
+  height: 40vh;
+  margin-left: 6rem;
+  margin-top: 4rem;
+}
+.dom-i h2 {
+  color: black;
+  font-family: "Spicy Rice", serif;
+  font-weight: bold;
+  margin-left: 6rem;
+}
+.dom-i p {
+  color: black;
+  width: 40%;
+  margin-left: 6rem;
+}
+.dom-i button {
+  border: 1px;
+  background-color: blue;
+  color: white;
+  margin-left: 6rem;
+}
+.dom-i button;
+:hover {
+  background-color: white;
+  color: blue;
+}
+.fin {
+  margin-top: 3rem;
+  background-color: blue;
+  width: 100%;
+  height: 100%;
+  color: white;
+  display: flex;
+}
+.fin table {
+  flex: 0.5;
+  text-align: center;
+}
+#fenish {
+  margin: 3rem;
+  text-align: center;
+}
+#fenish ul li {
+  list-style: none;
+  margin-top: 1rem;
+  flex: 1;
+}
+
+#logo img {
+  width: 5%;
+  height: 5%;
+  margin-top: 3rem;
+  display: flex;
+  margin-left: 80%;
+}
